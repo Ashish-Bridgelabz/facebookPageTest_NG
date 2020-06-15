@@ -1,4 +1,4 @@
-package com.facebook.data;
+package com.bridgelabz.facebook.data;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
